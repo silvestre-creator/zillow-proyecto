@@ -99,3 +99,7 @@ $(document).ready(function () {
     })
     
 });
+
+function algo(){
+    let hola ="Silvestre"
+}
